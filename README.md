@@ -33,14 +33,7 @@
 ## Installation
 
 ```
-npm i react-native-thermal-receipt-printer-image-qr
-npm i react-native-ping
-```
-
-or
-
-```
-yarn add react-native-thermal-receipt-printer-image-qr
+yarn add react-native-thermal-receipt-printer-image-qr@https://github.com/hoanganhnh2009/react-native-thermal-receipt-printer-image-qr
 yarn add react-native-ping
 ```
 
